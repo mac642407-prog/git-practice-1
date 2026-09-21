@@ -1,0 +1,1 @@
+Idea: write a CLI todo app in Python
